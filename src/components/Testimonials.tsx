@@ -12,21 +12,21 @@ const testimonials = [
     name: "Sarah Mwangi",
     role: "Fashion Blogger",
     content: "Culture Creatives has transformed my wardrobe with their stunning pieces that celebrate my Tanzanian roots. The quality and attention to detail are unmatched!",
-    image: "/src/assets/images/IMG_9288.JPG"
+    image: "/images/IMG_9288.JPG"
   },
   {
     id: 2,
     name: "David Kimaro",
     role: "Business Executive",
     content: "The custom suit I ordered for my wedding blended traditional patterns with modern tailoring. I've never received so many compliments on an outfit before.",
-    image: "/src/assets/images/IMG_9286.JPG"
+    image: "/images/IMG_9286.JPG"
   },
   {
     id: 3,
     name: "Amina Hassan",
     role: "Event Planner",
     content: "Working with Culture Creatives for our corporate event uniforms was a delight. They captured our brand essence while incorporating beautiful Tanzanian elements.",
-    image: "/src/assets/images/IMG_9284.JPG"
+    image: "/images/IMG_9284.JPG"
   }
 ];
 

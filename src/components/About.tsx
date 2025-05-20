@@ -8,7 +8,7 @@ const About = () => {
           <div className="lg:w-1/2">
             <div className="relative">
               <img 
-                src="/src/assets/images/IMG_9307.JPG"
+                src="/images/IMG_9307.JPG"
                 alt="Tanzanian Inspiration" 
                 className="rounded-lg shadow-xl object-cover h-[500px] w-full"
               />

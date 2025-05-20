@@ -11,7 +11,7 @@ const products = [
     name: "Kitenge Maxi Dress",
     price: "TZS 185,000",
     category: "Dresses",
-    image: "/src/assets/images/IMG_9303.JPG",
+    image: "/images/IMG_9303.JPG",
     isNew: true
   },
   {
@@ -19,14 +19,14 @@ const products = [
     name: "Handcrafted Beaded Necklace",
     price: "TZS 75,000",
     category: "Accessories",
-    image: "/src/assets/images/IMG_9300.JPG",
+    image: "/images/IMG_9300.JPG",
   },
   {
     id: 3,
     name: "Modern Kanga Suit",
     price: "TZS 220,000",
     category: "Menswear",
-    image: "/src/assets/images/IMG_9299.JPG",
+    image: "/images/IMG_9299.JPG",
     isNew: true
   },
   {
@@ -34,21 +34,21 @@ const products = [
     name: "Embroidered Leather Sandals",
     price: "TZS 95,000",
     category: "Footwear",
-    image: "/src/assets/images/IMG_9298.JPG",
+    image: "/images/IMG_9298.JPG",
   },
   {
     id: 5,
     name: "Tribal Print Blazer",
     price: "TZS 165,000",
     category: "Menswear",
-    image: "/src/assets/images/IMG_9297.JPG",
+    image: "/images/IMG_9297.JPG",
   },
   {
     id: 6,
     name: "Maasai Inspired Clutch",
     price: "TZS 65,000",
     category: "Accessories",
-    image: "/src/assets/images/IMG_9289.JPG",
+    image: "/images/IMG_9289.JPG",
     isNew: true
   },
 ];

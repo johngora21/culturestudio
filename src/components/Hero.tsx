@@ -8,7 +8,7 @@ const Hero = () => {
       {/* Background */}
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-r from-charcoal/70 to-charcoal/40 z-10"></div>
-        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url('/src/assets/images/IMG_9271.JPG')` }}></div>
+        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url('/images/IMG_9271.JPG')` }}></div>
       </div>
       
       {/* Content */}
